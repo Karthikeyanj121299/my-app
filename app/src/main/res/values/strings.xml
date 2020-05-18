@@ -1,0 +1,320 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+    </string-array>
+    <string-array name="Week">
+        <item> Day Order1 </item>
+        <item> Day Order2 </item>
+        <item> Day Order3 </item>
+        <item> Day Order4 </item>
+        <item> Day Order5 </item>
+    </string-array>
+    <string-array name="DayOrder1">
+        <item> DC </item>
+        <item> MCI </item>
+        <item> DSP </item>
+        <item> CE </item>
+        <item> DSP LAB </item>
+    </string-array>
+    <string-array name="DayOrder2">
+        <item> MCI </item>
+        <item> MC </item>
+        <item> DSP </item>
+        <item> CE </item>
+        <item> EMCS </item>
+        <item> DCN </item>
+        <item> MCI </item>
+    </string-array>
+    <string-array name="DayOrder3">
+        <item> CE </item>
+        <item> MC LAB </item>
+        <item> DC </item>
+        <item> EMCS </item>
+        <item> DCN </item>
+
+    </string-array>
+    <string-array name="DayOrder4">
+        <item> DCN </item>
+        <item> DC </item>
+        <item> EMCS </item>
+        <item> CE </item>
+        <item> MC </item>
+        <item> MCI </item>
+        <item> DSP </item>
+
+    </string-array>
+    <string-array name="DayOrder5">
+        <item> DSP </item>
+        <item> EMCS </item>
+        <item> DCN </item>
+        <item> DC </item>
+        <item> DC/NW LAB </item>
+
+    </string-array>
+    <string-array name="time1">
+        <item> 8.45-9.40 </item>
+        <item> 9.40-10.35 </item>
+        <item> 11.00-12.00 </item>
+        <item> 12.00-1.00 </item>
+        <item> 2.00-4.55 </item>
+    </string-array>
+    <string-array name="time2">
+        <item> 8.45-9.40 </item>
+        <item> 9.40-10.35 </item>
+        <item> 11.00-12.00 </item>
+        <item> 12.00-1.00 </item>
+        <item> 2.00-3.00 </item>
+        <item> 3.00-4.00 </item>
+        <item> 4.00-4.55 </item>
+    </string-array>
+
+    <string-array name="time3">
+        <item> 8.45-9.40 </item>
+        <item> 9.40-1.00 </item>
+        <item> 2.00-3.00 </item>
+        <item> 3.00-4.00 </item>
+        <item> 4.00-4.55 </item>
+    </string-array>
+
+    <string-array name="time4">
+        <item> 8.45-9.40 </item>
+        <item> 9.40-10.35 </item>
+        <item> 11.00-12.00 </item>
+        <item> 12.00-1.00 </item>
+        <item> 2.00-3.00 </item>
+        <item> 3.00-4.00 </item>
+        <item> 4.00-4.55 </item>
+    </string-array>
+
+    <string-array name="time5">
+        <item> 8.45-9.40 </item>
+        <item> 9.40-10.35 </item>
+        <item> 11.00-12.00 </item>
+        <item> 12.00-1.00 </item>
+        <item> 2.00-4.55 </item>
+    </string-array>
+    <string-array name="Subjects">
+        <item>MCI</item>
+        <item>DSP</item>
+        <item>DC</item>
+        <item>DCN</item>
+        <item>EMCS</item>
+        <item>DIP</item>
+        <item>MC</item>
+    </string-array>
+    <string-array name="MCI">
+        <item>1.8 BIT Microcontroller: Introduction to 8051 micro-controller, Architecture, Special Function
+Registers, Instruction set, Addressing modes, Interrupts, Power down operation, Memory
+organization, Programming 8051, Micro controller based system designs. Memory Interfacing
+and I/O interfacing - Parallel communication interface – Serial communication interface – Timer
+– Keyboard /display controller – Interrupt controller – DMA controller.</item>
+        <item>2.MSP430 Microcontroller: Architecture of MSP430 Microcontrollers: Central Processing Unit
+and Registers, Port Interrupts, Timers: Timer Block diagram and Operation, Timer Modes,
+Output Unit, Timer Interrupts, Low Power Down Modes, Watchdog Timer and operation.</item>
+        <item>3.ARM Processor- The ARM architecture, ARM Bus architecture,ARM7 TDMI,ARM 9 TDMI,ARM
+Instruction Set, Memory Mapping, The Thumb Instruction Set.</item>
+        <item>fk</item>
+        <item>gk</item>
+        <item>1. Muhammad Ali Mazidi, “The 8051 Microcontroller and Embedded systems”,
+Prentice Hall India, New Delhi, 2013
+2. John H Devis, MSP430 Microcontrollers Basics, 1 st Edition, Newnes
+Publisher.2008
+3. Steve Furber , “ARM System –On –Chip architecture”, Addision Wesley,2000.</item>
+        <item>1. Subrata Ghoshal, “8051 Microcontroller- Internals, Instructions, Programming
+and Interfacing”, Pearson, 2010.
+2. Andrew N.Sloss, Dominic Symes and Chris Wright “ ARM System
+Developer‟s Guide : Designing and Optimizing System Software” , First
+edition, Morgan Kaufmann Publishers, 2004.
+3. Krishna Kant, “Microprocessors and Microcontrollers – Architecture,
+
+Programming and System Design 8085, 8056, 8051, 8096”, Prentice Hall
+India, New Delhi, 2007.</item>
+    </string-array>
+    <string-array name="DSP">
+        <item>jk</item>
+        <item>lkdff</item>
+        <item>ok</item>
+        <item>fk</item>
+        <item>xkssd</item>
+        <item>2.stephen</item>
+        <item>1.john</item>
+    </string-array>
+    <string-array name="DC">
+        <item>Baseband Transmission: Geometric representation of signal waveforms, Matched filter; Nyquist rate and
+wave shaping techniques; ISI and adaptive equalization, Eye Pattern, Maximum-likelihood sequence
+detector (MLSD), Correlative level Coding, Duobinary Signalling, Line coding</item>
+        <item>Passband transmission:
+Coherent and non-coherent detection of signals in noise - BPSK, BFSK, DPSK, M-ary modulation schemes:
+QPSK, QAM, MSK - Signal representation, Generation and Detection, Probability of error analysis,
+Synchronization: Approaches, Recursive algorithm – Maximum likelihood estimation, Non-data aided for
+symbol timing.</item>
+        <item>Channel capacity and Error control coding: Introduction to Shannon Hartley theorem,
+Discrete memoryless channel and Binary symmetric channel, Linear Block Codes, Cyclic Codes,
+Convolutional Codes.</item>
+        <item>fdfdfdk</item>
+        <item>ok</item>
+        <item>1. S. Haykin, Micheal Moher, Communication Systems, 5 th  Ed., John Wiley &amp; Sons, 2009.
+2. S. Haykin, Digital Communication Systems, John Wiley &amp; Sons, 2013.
+3. H. Taub and D. L. Schilling, Principles of Communication Systems, 4 th edition, McGraw Hill,2017.</item>
+        <item>1. J. G. Proakis, Digital Communications, McGraw-Hill, 5 th  Ed., 2014.
+2. A. B. Carlson, Communication Systems: An Introduction to Signals and Noise in Electrical
+Communication, 4 th Ed., McGraw-Hill, 2010.
+3. Bernard Sklar , ‎ Fredric J. Harris , Digital Communications: Fundamentals and Applications,
+Pearson Education, 3rd edition, 2018.</item>
+    </string-array>
+    <string-array name="DCN">
+        <item>DATA COMMUNICATIONS: Types of networks – Circuit Switching and Packet Switching – ISO / OSI
+model – Transmission Media – Coaxial Cable – Fiber Optics TCP/IP protocol suite.</item>
+        <item>Flow Control and
+Error control - stop and wait – go back-N ARQ – selective repeat ARQ – sliding window – LAN –
+Ethernet IEEE 802.3 – IEEE 802.4 – IEEE 802.5 – IEEE 802.11 – FDDI.NETWORK</item>
+        <item>TRANSPORT AND
+APPLICATION LAYER– IP addressing methods – IPV4 – Next generation IP, IPV6, Subnetting –
+Routing – Distance Vector Routing – Link State Routing, Transport Layer Services –Multiplexing and
+Demultiplexing – User Datagram Protocol (UDP) – Principles of Reliable Data Transfer –
+Transmission Control Protocol (TCP)</item>
+        <item>Congestion Control – Quality of services (QOS) – Integrated
+Services – Differentiated Services – WWW – HTTP – SMTP – FTP – Telnet – Domain name space.</item>
+        <item>CRYPTOGRAPHY – Symmetric Key Cryptography – Asymmetric Key Cryptography – Network
+security, confidentiality,cipers, Digital signature, Authentication, Key management.</item>
+        <item>1, Behrouz A. Foruzan, “Data communication and Networking”, 5th Edition Tata
+McGraw-Hill, 2013.
+
+2. William Stallings, “Data and Computer Communication”, TenthEdition, Pearson
+
+Education, 2013.
+
+3. Larry-L-Peterson&amp; Bruce S David, “Computer-Networks a Systems Approach” Morgan
+
+Kaufmann Publishers, Fifth Edition, 2011.</item>
+        <item>1. Behrouz A. Foruzan, “Data communication and Networking”, 5th Edition Tata
+McGraw-Hill, 2013.
+
+2. William Stallings, “Data and Computer Communication”, TenthEdition, Pearson
+
+Education, 2013.
+
+3. Larry-L-Peterson&amp; Bruce S David, “Computer-Networks a Systems Approach” Morgan
+
+Kaufmann Publishers, Fifth Edition, 2011.</item>
+    </string-array>
+    <string-array name="EMCS">
+        <item>jk</item>
+        <item>gdfdfdk</item>
+        <item>lk</item>
+        <item>fdfdfdk</item>
+        <item>ok</item>
+        <item>5.stephen</item>
+        <item>1.john</item>
+    </string-array>
+    <string-array name="DIP">
+        <item>Elements of a Digital Image Processing system – Structure of Human eye – Image
+formation and contrast sensitivity -Sampling and Quantization – Neighbours of a pixel –
+Distance measures – Image Transforms:– DFT –FFT algorithm –Walsh transform –
+Hadamard transform – Discrete Cosine transform-Introduction to wavelet transforms</item>
+        <item>Image
+Enhancement:Basic Gray Level Transformations - Histogram equalization and specification
+technique–Smoothening and sharpening in spatial domain – Smoothening and sharpening in
+frequency domain – Homomorphic filtering- Color image processing basics.Image
+Restoration: Model Of Image Degradation/Restoration Process - Noise Models – Filters for
+Restoration in thePresence of Noise, Periodic Noise Reduction by Frequency Domain</item>
+        <item>Filtering - Inverse Filtering -Wiener Filtering - Geometric Mean Filter. Image Compression
+: Image Compression Models –Lossless Compression –Huffmann, Arithmetic coding, LZW,
+RLE – Lossy Compression-Transform coding –Predictive coding– JPEG and MPEG
+Compression Standards</item>
+        <item>Image Segmentation – Detection of Discontinuities - Edge linking
+and Boundary detection – Thresholding – Region Oriented segmentation -Basic
+Morphological algorithm Image Representation Boundary Descriptors– Regional
+Descriptors –Relational Descriptors.</item>
+        <item>okKK</item>
+        <item>1. Rafael C., Gonzalez and Richard. E., Woods, “Digital Image Processing”,
+Addison Wesley, 1992.
+2. Anil K Jain, “Fundamentals of Digital Image processing”, PHI, 1st Edition
+–1998.
+3. S.Annadurai, R.Shanmugalakshmi, “ Fundamentals of Digital Image
+Processing”,
+Pearson Education ,New Delhi,2007</item>
+        <item>1. W. K. Pratt, "Digital Image Processing", 2nd Edition, John Wiley and Sons,
+1991
+2. B.Chanda, D DuttaMajumdar, “Digital Image Processing and Analysis”,Prentice
+HallEdition, New Delhi,2000.</item>
+    </string-array>
+    <string-array name="MC">
+        <item>jk</item>
+        <item>gdfdfdk</item>
+        <item>lk</item>
+        <item>fdfdfdk</item>
+        <item>ok</item>
+        <item>7.stephen</item>
+        <item>1.john</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Unit 4</item>
+        <item>Unit 5</item>
+        <item>Text books</item>
+        <item>Referrence books</item>
+    </string-array>
+    <string-array name="faculty_name">
+        <item>Ms.Jeyapadmini</item>
+        <item>Ms.Vanitha</item>
+        <item>Ms.Devi</item>
+        <item>Dr.Sasipriya</item>
+        <item>Ms.Anish Fathima</item>
+        <item>Ms.Maladhi</item>
+        <item>Dr.Thirumaraiselvi</item>
+        <item>Ms.Soundari</item>
+    </string-array>
+    <string-array name="jeya">
+        <item>9803423454</item>
+        <item>xyz@gmail.com</item>
+        <item>1st floor</item>
+    </string-array>
+    <string-array name="vani">
+        <item>9803423451</item>
+        <item>abc@gmail.com</item>
+        <item>2nd floor</item>
+    </string-array>
+    <string-array name="devi">
+        <item>9803423452</item>
+        <item>def@gmail.com</item>
+        <item>3rd floor</item>
+    </string-array>
+    <string-array name="sasi">
+        <item>9803423453</item>
+        <item>ghi@gmail.com</item>
+        <item>4th floor</item>
+    </string-array>
+    <string-array name="anish">
+        <item>9803423453</item>
+        <item>ghi@gmail.com</item>
+        <item>5th floor</item>
+    </string-array>
+    <string-array name="mal">
+        <item>9803423453</item>
+        <item>ghi@gmail.com</item>
+        <item>6th floor</item>
+    </string-array>
+    <string-array name="thiru">
+        <item>9803423453</item>
+        <item>ghi@gmail.com</item>
+        <item>7th floor</item>
+    </string-array>
+    <string-array name="soun">
+        <item>9803423453</item>
+        <item>ghi@gmail.com</item>
+        <item>8th floor</item>
+    </string-array>
+</resources>
